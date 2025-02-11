@@ -24,5 +24,5 @@ Currently pursuing B.E. in Computer Science and Engineering.
 
 
 ## **Contact Me**
-📧  Email: [your email] (Replace with your actual email)
-🌐  GitHub: [your-github-link](https://github.com/Sathish_Duraiyan)
+📧  Email: sathishduriyan6@gmail.com
+🌐  GitHub: (https://github.com/Sathish_Duraiyan)
