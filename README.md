@@ -1,6 +1,8 @@
-<h1 align="center">
+<h1>
   <svg width="300" height="60" xmlns="http://www.w3.org/2000/svg">
-    <text x="10" y="40" font-family="Arial" font-size="40" fill="black">Sathish Duraiyan</text>
+    <text x="10" y="40" font-family="Arial" font-size="40" fill="black">Hey There, I'm Sathish Duraiyan</text>
+    <p>I’m a final-year B.E. Computer Science and Engineering student. Passionate problem solver and researcher on new tech stacks. 
+    Keen interest in Full Stack Development and UI/UX Designing. Currently learning Spring Boot and TypeScript.</p>
   </svg>
 </h1>
 
