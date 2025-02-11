@@ -32,7 +32,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="30" height="30" style="margin:5px;">
   </a>
   <a href="#">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter" width="30" height="30" style="margin:5px;">
+    <img src="https://icons8.com/icon/5MQ0gPAYYx7a/twitter-bird" alt="Twitter" width="30" height="30" style="margin:5px;">
   </a>
   <a href="#">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30" style="margin:5px;">
