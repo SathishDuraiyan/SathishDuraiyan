@@ -5,7 +5,6 @@
 Currently pursuing B.E. in Computer Science and Engineering.
 
 ## **Tech Stack**
-Let me showcase my skills with some cool icons! 🎨✨
 
 ### **Frontend Development**
 - **React**: 🚀
