@@ -5,6 +5,13 @@
   </h1>
   <p>I’m a final-year B.E. Computer Science and Engineering student. Passionate problem solver and researcher on new tech stacks. 
     Keen interest in Full Stack Development and UI/UX Designing. Currently learning Spring Boot and TypeScript.</p>
+
+<p>
+  <a href="https://leetcode.com/u/Sathish_Duraiyan/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40">
+  </a>
+</p>
+## **Tech Stack**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40">
@@ -18,11 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40">
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/u/Sathish_Duraiyan/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="150">
-  </a>
-</p>
+
 
 ## **Contact Me**
 📧 Email: sathishduriyan6@gmail.com  
