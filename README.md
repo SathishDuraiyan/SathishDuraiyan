@@ -24,9 +24,21 @@
 </p>
 
 ---
-
-## 📫 **Contact Me**
 <p align="center">
-  📧 Email: <b>sathishduriyan6@gmail.com</b><br>
-  🔗 LinkedIn: <a href="https://www.linkedin.com/in/sathish-duraiyan-043a1624b/" target="_blank"><b>Sathish Duraiyan</b></a>
+  <a href="#">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="50" height="50" style="margin:5px;">
+  </a>
+  <a href="#">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="50" height="50" style="margin:5px;">
+  </a>
+  <a href="#">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter" width="50" height="50" style="margin:5px;">
+  </a>
+  <a href="#">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50" style="margin:5px;">
+  </a>
+  <a href="#">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Discord_logo.svg" alt="Discord" width="50" height="50" style="margin:5px;">
+  </a>
 </p>
+
