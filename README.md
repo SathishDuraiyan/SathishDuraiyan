@@ -6,7 +6,7 @@
 <p>
   <i>Final-year B.E. Computer Science and Engineering student.
   Passionate problem solver & researcher on new tech stacks.<br>
-  Keen interest in Full Stack Development and UI/UX Designing.<br>
+  Keen interest in Full Stack Development and UI/UX Designing.
   Currently learning <b>Spring Boot</b> and <b>TypeScript</b>.</i>
 </p>
 
