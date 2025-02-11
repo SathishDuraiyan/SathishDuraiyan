@@ -23,16 +23,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" style="margin:5px;">
 </p>
 
----
-<p>
-  <a href="#">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40" style="margin:5px;">
-  </a>
-  <a href="#">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40" style="margin:5px;">
-  </a>
-  <a href="#">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" style="margin:5px;">
-  </a>
-</p>
 
