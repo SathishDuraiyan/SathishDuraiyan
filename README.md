@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
   <svg width="500" height="60" xmlns="http://www.w3.org/2000/svg">
     <text x="10" y="40" font-family="Arial" font-size="35" fill="black">Hey There, I'm Sathish Duraiyan</text>
   </svg>
@@ -10,7 +10,7 @@
   Currently learning <b>Spring Boot</b> and <b>TypeScript</b>.</i>
 </p>
 
-<p align="center">
+<p>
   <a href="https://leetcode.com/u/Sathish_Duraiyan/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" height="50" style="margin-right:10px;">
   </a>
@@ -22,7 +22,6 @@
   </a>
 </p>
 
-## 🚀 **Tech Stack**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin:5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin:5px;">
