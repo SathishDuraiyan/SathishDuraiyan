@@ -17,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40">
 </p>
 
-<p align="center">
+<p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40">
   <a href="https://leetcode.com/u/Sathish_Duraiyan/">LeetCode Profile</a>
 </p>
