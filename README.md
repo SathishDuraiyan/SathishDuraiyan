@@ -5,8 +5,7 @@
 </h1>
 
 ## **About Me**
-👨💻 I’m a final-year B.E. Computer Science and Engineering student. Passionate problem solver and researcher on new tech stacks. 
-    Keen interest in Full Stack Development and UI/UX Designing. Currently learning Spring Boot and TypeScript.
+👨💻 
 
 ## **Tech Stack**
 
