@@ -19,11 +19,9 @@
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40">
-</p>
-
-<p align="center">
   <a href="https://leetcode.com/u/Sathish_Duraiyan/">LeetCode Profile</a>
 </p>
+
 
 ## **Contact Me**
 📧 Email: sathishduriyan6@gmail.com  
