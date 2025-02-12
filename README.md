@@ -24,3 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="margin:5px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40" style="margin:5px;">
 </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SathishDuraiyan&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SathishDuraiyan&theme=graywhite&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SathishDuraiyan&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
